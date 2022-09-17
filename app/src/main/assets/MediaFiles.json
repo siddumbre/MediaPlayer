@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "name": "Avengers",
+      "url": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
+      "img_url": "https://i.annihil.us/u/prod/marvel/images/OpenGraph-TW-1200x630.jpg"
+    },
+    {
+      "name": "Avengers: Age of Ultron",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+      "img_url": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/1a59eba7c54a8ec6a83dc245bfab3880_66ea66d0-f642-48e5-9eab-471c05527da0_480x.progressive.jpg?v=1573590182"
+    },
+    {
+      "name": "Avengers Infinity War",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "img_url": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/068a90d99903ee7323fb787f83907ad9_e8644835-2b49-44e2-9e88-09ec543586f9_480x.progressive.jpg"
+    },
+    {
+      "name": "Avengers Endgame",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "img_url": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/108b520c55e3c9760f77a06110d6a73b_e97cf224-d57f-44e3-8477-4f5479cd746b_480x.progressive.jpg"
+    },
+    {
+      "name": "No Time to Die",
+      "url": "https://statuskingwood.com/wp-content/uploads/2021/05/RV905YW9.mp4",
+      "img_url":"https://cdn.shopify.com/s/files/1/0057/3728/3618/products/received_188443509130467_480x.progressive.jpg"
+    },
+    {
+      "name" : "Back to the future",
+      "url" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" ,
+      "img_url" : "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/ca11daeac999969feee8e4c0e6e9234b_12b34982-2b14-481e-bd7b-1a408b23056a_480x.progressive.jpg"
+    },
+    {
+      "name": "Dune",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      "img_url": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/dune_fzj9yoaw_480x.progressive.jpg"
+    }
+  ]
+}
